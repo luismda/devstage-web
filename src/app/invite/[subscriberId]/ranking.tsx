@@ -34,15 +34,33 @@ export async function Ranking() {
               </span>
 
               {rankingPosition === 1 && (
-                <Image src={gold} alt="" className="absolute top-0 right-8" />
+                <Image
+                  alt=""
+                  src={gold}
+                  width={56}
+                  height={85}
+                  className="absolute top-0 right-8"
+                />
               )}
 
               {rankingPosition === 2 && (
-                <Image src={silver} alt="" className="absolute top-0 right-8" />
+                <Image
+                  alt=""
+                  src={silver}
+                  width={56}
+                  height={85}
+                  className="absolute top-0 right-8"
+                />
               )}
 
               {rankingPosition === 3 && (
-                <Image src={cooper} alt="" className="absolute top-0 right-8" />
+                <Image
+                  alt=""
+                  src={cooper}
+                  width={56}
+                  height={85}
+                  className="absolute top-0 right-8"
+                />
               )}
             </div>
           )
