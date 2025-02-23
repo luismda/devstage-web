@@ -1,7 +1,7 @@
 # devstage
 
-<img src="./home-preview.png" alt="" />
-<img src="./invite-preview.png" alt="" />
+<img src="./.github/home-preview.png" alt="" />
+<img src="./.github/invite-preview.png" alt="" />
 
 This project is a web app to subscribe for an event and refer people through a referral link.
 
