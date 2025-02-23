@@ -3,7 +3,7 @@
 <img src="./.github/home-preview.png" alt="" />
 <img src="./.github/invite-preview.png" alt="" />
 
-This project is a web app to subscribe for an event and refer people through a referral link.
+This project is a web app to subscribe for an event and refer people through a referral link. The React, Next.js and TailwindCSS tools were used in the development.
 
 The Figma layout can be accessed [here](https://www.figma.com/community/file/1471119935944492720).
 
